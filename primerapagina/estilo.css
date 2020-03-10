@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+    font-family: "Blippo";
+    font-size: 20px;
+}
+
+.footer{
+    text-align: center;
+    font-family: "Brush Script MT";
+}
+
+body{
+    background-color: brown;
+}
